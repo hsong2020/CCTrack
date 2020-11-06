@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/CCTracker/static/css/main.785577b8.chunk.css",
-    "main.js": "/CCTracker/static/js/main.a4e8ab41.chunk.js",
-    "main.js.map": "/CCTracker/static/js/main.a4e8ab41.chunk.js.map",
-    "runtime-main.js": "/CCTracker/static/js/runtime-main.e9095827.js",
-    "runtime-main.js.map": "/CCTracker/static/js/runtime-main.e9095827.js.map",
-    "static/js/2.d9843331.chunk.js": "/CCTracker/static/js/2.d9843331.chunk.js",
-    "static/js/2.d9843331.chunk.js.map": "/CCTracker/static/js/2.d9843331.chunk.js.map",
-    "index.html": "/CCTracker/index.html",
-    "static/css/main.785577b8.chunk.css.map": "/CCTracker/static/css/main.785577b8.chunk.css.map",
-    "static/js/2.d9843331.chunk.js.LICENSE.txt": "/CCTracker/static/js/2.d9843331.chunk.js.LICENSE.txt"
+    "main.css": "/CCTrack/static/css/main.785577b8.chunk.css",
+    "main.js": "/CCTrack/static/js/main.a4e8ab41.chunk.js",
+    "main.js.map": "/CCTrack/static/js/main.a4e8ab41.chunk.js.map",
+    "runtime-main.js": "/CCTrack/static/js/runtime-main.73349fae.js",
+    "runtime-main.js.map": "/CCTrack/static/js/runtime-main.73349fae.js.map",
+    "static/js/2.f2beaf95.chunk.js": "/CCTrack/static/js/2.f2beaf95.chunk.js",
+    "static/js/2.f2beaf95.chunk.js.map": "/CCTrack/static/js/2.f2beaf95.chunk.js.map",
+    "index.html": "/CCTrack/index.html",
+    "static/css/main.785577b8.chunk.css.map": "/CCTrack/static/css/main.785577b8.chunk.css.map",
+    "static/js/2.f2beaf95.chunk.js.LICENSE.txt": "/CCTrack/static/js/2.f2beaf95.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.e9095827.js",
-    "static/js/2.d9843331.chunk.js",
+    "static/js/runtime-main.73349fae.js",
+    "static/js/2.f2beaf95.chunk.js",
     "static/css/main.785577b8.chunk.css",
     "static/js/main.a4e8ab41.chunk.js"
   ]
